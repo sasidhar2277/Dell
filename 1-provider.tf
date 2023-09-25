@@ -2,9 +2,7 @@ provider "azurerm" {
   features {}
 }
 
-provider "aws" {
 
-}
 
 terraform {
   backend "azurerm" {

@@ -1,5 +1,5 @@
 variable "rg_name" {
-  default = "supermahesh"
+  default = "supermahes"
 }
 variable "rg_location" {
   default = "eastus"
