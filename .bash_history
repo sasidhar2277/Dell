@@ -200,3 +200,113 @@ git statsus
 git status 
 clear
 exit
+clear
+git init 
+git version 
+git branch 
+git status 
+pwd
+git remote -v
+git status 
+git add .
+git status 
+git commit -m "Aws file loaded into github"
+git branch 
+git branch aws_branch
+git branch
+git checkout   aws_branch
+git checkout aws_branch
+git brancjh
+git branch
+ls
+nano 6-keyvault.tf
+git remote -v
+git remote add origin git@github.com:sasidhar2277/Devsec37.git
+git remote -v
+git branch 
+git clone git@github.com:sasidhar2277/Devsec37.git
+ssh-keygen 
+cat /root/.ssh/id_rsa.pub 
+git clone git@github.com:sasidhar2277/Devsec37.git
+ls
+cp 6-keyvault.tf Devsec37/
+ls
+nano Devsec37/
+cd Devsec37/
+ls
+git clone git@github.com:sasidhar2277/Devsec37.git
+ls
+cd Devsec37/
+ls
+cd ..
+ls
+cd ..
+git clone https://github.com/sasidhar2277/Devsec37.git
+git clone git@github.com:sasidhar2277/Devsec37.git asssssssbbb
+ls
+cd asssssssbbb/
+ls -al
+ll
+ls
+git branch --all
+git branch   remotes/origin/dev12
+lss
+ls
+git branch 
+git branch remotes/origin/dev12
+ls
+git branch 
+git branch
+git branch -m remotes/origin/dev12
+ls
+cd ..
+ls
+cd Devsec37/
+git branch 
+cd ..
+git remote -v
+git branch 
+ls
+git push origin dev12
+git push origin aws_branch 
+git clone git@github.com:sasidhar2277/Devsec37.git aaa
+ls
+cd aaa/
+ls
+ls -al
+git branch 
+cd ..
+git branch
+git remote --allbranch 
+clear
+git bracndhs
+git bracndh
+git branch
+git clone git@github.com:sasidhar2277/Devsec37.git
+git branch
+ll
+mkdie github 
+mkdir github 
+cd github/
+git clone git@github.com:sasidhar2277/Devsec37.git
+ll
+cd Devsec37/
+ls
+clear
+git remote -v 
+git clone git@github.com:sasidhar2277/Devsec37.git
+ls
+mv get_buckets.abc get_backets.abc
+ls
+mv get_buckets.sh get_backets.sh
+ls
+cd Devsec37/
+ls
+cd Devsec37/
+cd..
+cd ..
+git clone git@github.com:sasidhar2277/Devsec37.git
+clear
+git branch -all
+git branch --all
+git checkout remotes/origin/dev12
